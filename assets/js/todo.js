@@ -21,7 +21,9 @@ function addTask(form_id) {
                     '</div>' +
                     '<div class="todo__right">' +
                     '<div class="todo__task">' +
+                    '<div class="task__edit">' +
                     value +
+                    '</div>' +
                     '<div class="task__remove"></div>' +
                     '</div> ' +
                     '</div>' +
